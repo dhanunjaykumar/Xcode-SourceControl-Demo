@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D7AFABC2706E5E6004ED441 /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D7AFABB2706E5E6004ED441 /* TestClass.swift */; };
+		1D7AFABE2706E75B004ED441 /* New.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D7AFABD2706E75B004ED441 /* New.storyboard */; };
 		1DD97C3B27062B82000B6D8D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD97C3A27062B82000B6D8D /* AppDelegate.swift */; };
 		1DD97C3D27062B82000B6D8D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD97C3C27062B82000B6D8D /* SceneDelegate.swift */; };
 		1DD97C3F27062B82000B6D8D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD97C3E27062B82000B6D8D /* ViewController.swift */; };
@@ -37,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1D7AFABB2706E5E6004ED441 /* TestClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestClass.swift; sourceTree = "<group>"; };
+		1D7AFABD2706E75B004ED441 /* New.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = New.storyboard; sourceTree = "<group>"; };
 		1DD97C3727062B82000B6D8D /* XcodeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XcodeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DD97C3A27062B82000B6D8D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DD97C3C27062B82000B6D8D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +108,8 @@
 				1DD97C3A27062B82000B6D8D /* AppDelegate.swift */,
 				1DD97C3C27062B82000B6D8D /* SceneDelegate.swift */,
 				1DD97C3E27062B82000B6D8D /* ViewController.swift */,
+				1D7AFABD2706E75B004ED441 /* New.storyboard */,
+				1D7AFABB2706E5E6004ED441 /* TestClass.swift */,
 				1DD97C4027062B82000B6D8D /* Main.storyboard */,
 				1DD97C4627062B84000B6D8D /* Assets.xcassets */,
 				1DD97C4827062B84000B6D8D /* LaunchScreen.storyboard */,
@@ -237,6 +243,7 @@
 				1DD97C4A27062B84000B6D8D /* LaunchScreen.storyboard in Resources */,
 				1DD97C4727062B84000B6D8D /* Assets.xcassets in Resources */,
 				1DD97C4227062B82000B6D8D /* Main.storyboard in Resources */,
+				1D7AFABE2706E75B004ED441 /* New.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,6 +272,7 @@
 				1DD97C4527062B82000B6D8D /* XcodeTest.xcdatamodeld in Sources */,
 				1DD97C3B27062B82000B6D8D /* AppDelegate.swift in Sources */,
 				1DD97C3D27062B82000B6D8D /* SceneDelegate.swift in Sources */,
+				1D7AFABC2706E5E6004ED441 /* TestClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
